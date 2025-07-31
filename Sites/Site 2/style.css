@@ -104,7 +104,8 @@ section{
 }
 
 .content{
-    max width: 60rem;
+    max-width: 60rem;
+    
 
 }
 
@@ -186,9 +187,11 @@ color: var(--white);
 
 }
 .menu .box-container .box .h3{
-    color: var(--white)
+    padding: 1rem 0 ;
     font-size: 2rem;
-    padding: 1rem 0;
+    color: var(--white)
+    
+    
 }
 
 .menu .box-container .box .price{
@@ -214,7 +217,7 @@ color: var(--white);
     padding: 3rem 2rem;
 }
 
-.review .box-container .box p {
+.review .box-container .box p{
     font-size: 1.5rem;
     color: var(--white);
     padding: 2rem 0;
