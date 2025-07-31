@@ -167,10 +167,13 @@ color: var(--white);
     gap: 1.5rem;
 }
 .menu .box-container .box{
+    
     text-align: center;
     border: var(--border);
     padding: 5rem;
     cursor: pointer;
+   
+
 }
 .menu .box-container .box:hover{
     background-color: var(--white);
